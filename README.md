@@ -1,8 +1,5 @@
 - 👋 Hi, I’m Ivan Kouzmitch .
-- 👀 I’m interested in Learning software, full stack developer and front-end developer .
-- 🌱 I’m currently learning JvavaScript , Html5, Css .
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me study .
+ - I’m Learning software, full stack developer.
 
 <!---
 Kouivan/Kouivan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
